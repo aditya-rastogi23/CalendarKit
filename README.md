@@ -7,7 +7,7 @@
 
 
 # CalendarKit
-**CalendarKit** is a fully customizable calendar library written in Swift. It was designed to look similar to the iOS Calendar app, but allow customization if needed. To make modifications easier, CalendarKit is composed of multiple small modules. They can be used together, or on their own.
+**CalendarKi** is a fully customizable calendar library written in Swift. It was designed to look similar to the iOS Calendar app, but allow customization if needed. To make modifications easier, CalendarKit is composed of multiple small modules. They can be used together, or on their own.
 
 
 ## Need Help?
